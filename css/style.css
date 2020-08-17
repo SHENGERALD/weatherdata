@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(245, 179, 80);
+    color: #555555;
+    font-family: 標楷體, "DFKai-sb";
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.5em ;
+}
+
+h1,h2,h4{
+    text-align: center;
+}
+
+p{
+    font-size: 24px;
+    font-family: 標楷體, "DFKai-sb";
+    text-align: center;
+    margin-top:50px;
+}
+
+#city,#district{
+    margin-top:50px ;
+    font-size: 36px;
+    font-family: 標楷體, "DFKai-sb";
+    text-align: center;
+}
+
+#time{
+    font-size: 16px;
+    font-family: 標楷體, "DFKai-sb";
+    text-align: center;
+    margin-top:30px;
+}
+.main-block{
+    border-radius: 35px;
+    float: left;
+    width: 71.43%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: rgb(255, 240, 192);
+}
+.side-block{
+    border-radius: 35px;
+    float: right;
+    width: 28.57%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color:  rgb(255, 240, 192);
+}
+.date8{
+    border-radius: 30px;
+    float: left;
+    width: 16.66666%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color:  rgb(255, 240, 192);
+}
+.date2,.date9{
+    border-radius: 30px;
+    float: left;
+    width: 16.66666%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: rgb(255, 240, 192);
+}
+.date3{
+    border-radius: 30px;
+    float: left;
+    width: 16.66666%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color:  rgb(255, 240, 192);
+}
+.date4,.date11{
+    border-radius: 30px;
+    float: left;
+    width: 16.66666%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color:   rgb(255, 240, 192);
+}
+.date5,.date12{
+    border-radius: 30px;
+    float: left;
+    width: 16.66666%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color:  rgb(255, 240, 192);
+}
+.date6,.date13{
+    border-radius: 30px;
+    float: left;
+    width: 16.66666%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color:   rgb(255, 240, 192);
+}
+.date7,.date14{
+    border-radius: 30px;
+    float: left;
+    width: 16.66666%;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: rgb(255, 240, 192);
+}
